@@ -1,5 +1,6 @@
-# Привет, я Аня 👋
+# Аня Иванова
 
-Учусь на курсе GitHub в JavaRush: делаю сайты и выкладываю их на GitHub Pages.
+Делаю сайты и публикую их на GitHub Pages.
 
-Мой учебный сайт: https://legendary-java-tutorial.github.io/course2026-minigame/
+- Портфолио: https://legendary-java-tutorial.github.io/course2026-portfolio-honest/
+- Учебная мини-игра: https://legendary-java-tutorial.github.io/course2026-minigame/
