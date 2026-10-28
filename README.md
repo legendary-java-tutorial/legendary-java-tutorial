@@ -2,4 +2,4 @@
 
 Учусь на курсе GitHub в JavaRush: делаю сайты и выкладываю их на GitHub Pages.
 
-Моё портфолио: https://legendary-java-tutorial.github.io/course2026-portfolio/
+Мой учебный сайт: https://legendary-java-tutorial.github.io/course2026-minigame/
