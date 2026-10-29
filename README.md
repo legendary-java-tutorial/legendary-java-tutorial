@@ -1,8 +1,6 @@
 # Привет, я Аня 👋
 
-Учусь на курсе GitHub в JavaRush и делаю небольшие сайты.
-Сейчас разбираюсь с GitHub Pages и HTML.
+Учу Git и GitHub на курсе JavaRush и делаю свои первые сайты.
 
-[Моё портфолио](https://legendary-java-tutorial.github.io/course2026-portfolio-v2/)
-
-[Играть онлайн](https://legendary-java-tutorial.github.io/course2026-minigame/)
+Мой проект сейчас — мини-игра в браузере:
+[играть онлайн](https://legendary-java-tutorial.github.io/course2026-minigame/)
