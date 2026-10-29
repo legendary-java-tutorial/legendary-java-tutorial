@@ -1,6 +1,6 @@
-# Аня Петрова
+# Привет, я Аня 👋
 
-Делаю сайты и публикую их на GitHub Pages.
+Учусь на курсе GitHub в JavaRush и делаю небольшие сайты.
+Сейчас разбираюсь с GitHub Pages и HTML.
 
-- Портфолио: https://legendary-java-tutorial.github.io/course2026-portfolio-v2-honest/
-- Мини-игра: https://legendary-java-tutorial.github.io/course2026-minigame/
+[Играть онлайн](https://legendary-java-tutorial.github.io/course2026-minigame/)
