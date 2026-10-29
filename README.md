@@ -2,5 +2,6 @@
 
 Учу Git и GitHub на курсе JavaRush и делаю свои первые сайты.
 
-Мой проект сейчас — мини-игра в браузере:
-[играть онлайн](https://legendary-java-tutorial.github.io/course2026-minigame/)
+Моё портфолио: https://legendary-java-tutorial.github.io/course2026-portfolio-v2/
+
+Мини-игра в браузере: [играть онлайн](https://legendary-java-tutorial.github.io/course2026-minigame/)
