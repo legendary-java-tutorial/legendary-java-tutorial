@@ -5,3 +5,5 @@
 Моё портфолио: https://legendary-java-tutorial.github.io/course2026-portfolio-v2/
 
 Мини-игра в браузере: [играть онлайн](https://legendary-java-tutorial.github.io/course2026-minigame/)
+
+course2026-translit-ci — v0.2.1
